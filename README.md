@@ -31,3 +31,16 @@
 - High Availability
 - Troubleshooting
 - Operational Best Practices
+
+## Advanced F5 Topics
+
+- Virtual Servers
+- Pools and Pool Members
+- Health Monitors
+- iRules
+- SSL Offloading
+- Persistence Profiles
+- SNAT
+- High Availability
+- Traffic Optimization
+- Troubleshooting
