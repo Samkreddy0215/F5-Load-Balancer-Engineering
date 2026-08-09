@@ -44,3 +44,10 @@
 - High Availability
 - Traffic Optimization
 - Troubleshooting
+
+## Troubleshooting Guides
+
+- F5 BIG-IP Health Monitor Troubleshooting
+- Pool Member Availability
+- Application Connectivity Validation
+- Virtual Server Health Checks
